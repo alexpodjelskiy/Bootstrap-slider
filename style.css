@@ -1,0 +1,35 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    border-radius: 8px;
+}
+
+.card-title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    word-wrap: none;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.card-text {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.green-text {
+    color: #02897A;
+}
